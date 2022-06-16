@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![](./profile-3d-contrib/profile-customize.svg)
 <!-- リポジトリステータス -->
 [![YoNa's github stats](https://github-readme-stats.vercel.app/api?username=yoji-nakamura&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/yoji-nakamura/)
 
