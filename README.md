@@ -17,6 +17,3 @@ Here are some ideas to get you started:
 <!-- リポジトリステータス -->
 [![YoNa's github stats](https://github-readme-stats.vercel.app/api?username=yoji-nakamura&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/yoji-nakamura/)
 
-<!-- ソースコード統計 -->
-[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoji-nakamura&layout=compact&theme=tokyonight)](https://github.com/yoji-nakamura/)
-
